@@ -1,0 +1,34 @@
+{
+    "buybutton":[
+        {
+            "id":1,
+            "data_kite":"edpxtmu0jh05cmzr",
+            "data_exchange":"NSE",
+            "data_tradingsymbol":"RELIANCE",
+            "data_transaction_type":"SELL",
+            "data_quantity":"1",
+            "data_order_type":"LIMIT",
+            "data_price":"100"
+        },
+        {
+            "id":1,
+            "data-kite":"edpxtmu0jh05cmzr",
+            "data-exchange":"NSE",
+            "data-tradingsymbol":"RELIANCE",
+            "data-transaction_type":"SELL",
+            "data-quantity":"1",
+            "data-order_type":"LIMIT",
+            "data-price":"100"
+        },
+        {
+            "id":1,
+            "data-kite":"edpxtmu0jh05cmzr",
+            "data-exchange":"NSE",
+            "data-tradingsymbol":"RELIANCE",
+            "data-transaction_type":"SELL",
+            "data-quantity":"1",
+            "data-order_type":"LIMIT",
+            "data-price":"100"
+        }
+    ]
+}
